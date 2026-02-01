@@ -1,6 +1,6 @@
 # Tax Calculator (React)
 
-![Tax Calculator Demo](./docs/screenshot.png)
+![Tax Calculator Demo](./docs/screenshot2.png)
 
 A simple and scalable **Tax Calculator** built with **React**, designed to calculate taxes based on a user-provided salary and dynamically fetched tax brackets by year.
 
